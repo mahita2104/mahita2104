@@ -15,7 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Electronics and Communications Engineering with a specialization in Artificial Intelligence at Indira Gandhi Delhi Technical University for Women. I have a passion for technology and its impact on humanity, and I'm always eager to learn and apply new concepts in machine learning, artificial intelligence, and embedded systems.
+![Profile Views](https://komarev.com/ghpvc/?username=mahita&color=brightgreen) 
 
+## GitHub Stats
+
+![Mahita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahita&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahita&layout=compact&theme=radical)
+
+## Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahita&theme=radical)
+
+## Repositories
+
+Here are some of my repositories:
+
+- [Faculty Billing System](https://github.com/mahita/faculty-billing-system) 🧾💻
+- [Twinfusion Innovations](https://github.com/mahita/twinfusion-innovations) ⚡🔌
+- [Sawaar-E](https://github.com/mahita/sawaar-e) 🚖🗺️
 ## Education
 
 **INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN**  

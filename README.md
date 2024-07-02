@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Mahita 👋
-
 Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Electronics and Communications Engineering with a specialization in Artificial Intelligence at Indira Gandhi Delhi Technical University for Women. I have a passion for technology and its impact on humanity, and I'm always eager to learn and apply new concepts in machine learning, artificial intelligence, and embedded systems.
 
 ## Education

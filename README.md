@@ -4,12 +4,12 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-
+</div>
 
 <div align="right">
   <i> - Eat Sleep Sode Repeat!!</i>
 </div>
-
+<div align="centre">
 <h1> 
   <img src="https://github.com/mahita2104/mahita2104/blob/main/name.gif" 👋/> 
 </h1>

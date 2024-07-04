@@ -48,7 +48,7 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="22" height="22" style="vertical-align: text-bottom;"> Flask 
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="22" height="22" style="vertical-align: text-bottom;"> Code Composer Studio 
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" height="22" style="vertical-align: text-bottom;"> TensorFlow 
-<img src="https://img.icons8.com/color/48/000000/pytorch.png" width="22" height="22" style="vertical-align: text-bottom;"> PyTorch 
+<img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" width="22" height="22" style="vertical-align: text-bottom;"> PyTorch 
 <img src="https://img.icons8.com/color/48/000000/react-native.png" width="22" height="22" style="vertical-align: text-bottom;"> React
 
 #### 📬 Other Contacts

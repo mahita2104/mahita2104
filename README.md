@@ -21,15 +21,15 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 </div>
 Happy :smile: to catch your attention.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little  about me...  
+## About Me
 
-I love to showcase my projects with detailed documentation, so that people can replicate that easily!
-GO ahead! Find bugs in any of my repositories and send a PR:)
+I am an Electronics and Communications Engineering - Artificial Intelligence undergrad at IGDTUW. It’s a unique blend of electronics and AI, making it an exciting and multidisciplinary field. I am an inquisitive person with a passion for open source and a drive to create technology that positively impacts people's lives.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 🤖🧠 Constantly exploring new realms of machine learning
+- 💻 Enthusiastic about mastering web development technologies
+- 🤖🔧 Currently diving deep into robotics and embedded software
 
-- 🤔 &nbsp; Peeping into each stage of software development.
-- 🎓 &nbsp; Computer Science Undergrad, from IIIT, Delhi.
-- 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
 #### 📬 Other Contacts
 - [LinkedIn](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)

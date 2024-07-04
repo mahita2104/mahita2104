@@ -31,27 +31,25 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 ## Skills 🛠️
 
 ### Languages
-<img src="https://img.icons8.com/color/48/000000/python.png" width="24" height="24"> Python, 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="24" height="24"> C++,
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="24" height="24"> C,
-<img src="https://img.icons8.com/color/48/000000/r.png" width="24" height="24"> R,
-<img src="https://img.icons8.com/color/48/000000/dart.png" width="24" height="24"> Dart,
-<img src="https://img.icons8.com/color/48/000000/php.png" width="24" height="24"> PHP,
-<img src="https://img.icons8.com/color/48/000000/assembly.png" width="24" height="24"> Assembly
+<img src="https://img.icons8.com/color/48/000000/python.png" width="22" height="22"> Python, 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="22" height="22"> C++,
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="22" height="22"> C,
+<img src="https://img.icons8.com/color/48/000000/r.png" width="22" height="22"> R,
+<img src="https://img.icons8.com/color/48/000000/dart.png" width="22" height="22"> Dart,
+<img src="https://img.icons8.com/color/48/000000/php.png" width="22" height="22"> PHP,
+<img src="https://img.icons8.com/color/48/000000/assembly.png" width="22" height="22"> Assembly
 
 ### Tools / Frameworks
-<img src="https://img.icons8.com/color/48/000000/git.png" width="24" height="24"> Git,
-<img src="https://img.icons8.com/color/48/000000/flutter.png" width="24" height="24"> Flutter,
-<img src="https://img.icons8.com/color/48/000000/flutter.png" width="24" height="24"> FlutterFlow,
-<img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="24" height="24"> XAMPP,
-<img src="https://img.icons8.com/dusk/48/000000/api-settings.png" width="24" height="24"> FastAPI,
-<img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="24" height="24"> Flask,
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="24" height="24"> Code Composer Studio,
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="24" height="24"> TensorFlow,
-<img src="https://img.icons8.com/color/48/000000/pytorch.png" width="24" height="24"> PyTorch,
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="24" height="24"> React
-
-
+<img src="https://img.icons8.com/color/48/000000/git.png" width="22" height="22"> Git,
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22"> Flutter,
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22"> FlutterFlow,
+<img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="22" height="22"> XAMPP,
+<img src="https://img.icons8.com/dusk/48/000000/api-settings.png" width="22" height="22"> FastAPI,
+<img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="22" height="22"> Flask,
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="22" height="22"> Code Composer Studio,
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" height="22"> TensorFlow,
+<img src="https://img.icons8.com/color/48/000000/pytorch.png" width="22" height="22"> PyTorch,
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="22" height="22"> React
 
 #### 📬 Other Contacts
 - [LinkedIn](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)

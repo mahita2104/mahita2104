@@ -29,6 +29,29 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 - 💻 Enthusiastic about mastering web development technologies
 - 🤖🔧 Currently diving deep into robotics and embedded software
 
+## Skills 🛠️
+
+### Languages
+![Python Logo](https://img.icons8.com/color/48/000000/python.png) Python, 
+![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++,
+![C Logo](https://img.icons8.com/color/48/000000/c-programming.png) C,
+![R Logo](https://img.icons8.com/color/48/000000/r-project.png) R,
+![Dart Logo](https://img.icons8.com/color/48/000000/dart.png) Dart,
+![PHP Logo](https://img.icons8.com/color/48/000000/php.png) PHP,
+![Assembly Logo](https://img.icons8.com/color/48/000000/assembly.png) Assembly
+
+### Tools / Frameworks
+![Git Logo](https://img.icons8.com/color/48/000000/git.png) Git,
+![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png) Flutter,
+![FlutterFlow Logo](https://img.icons8.com/color/48/000000/flutter.png) FlutterFlow,
+![XAMPP Logo](https://img.icons8.com/color/48/000000/xampp.png) XAMPP,
+![FastAPI Logo](https://img.icons8.com/dusk/48/000000/api-settings.png) FastAPI,
+![Flask Logo](https://img.icons8.com/ios-filled/50/000000/flask.png) Flask,
+![Code Composer Studio Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Code Composer Studio,
+![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow,
+![Scikit-learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-learn,
+![PyTorch Logo](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch,
+![React Logo](https://img.icons8.com/color/48/000000/react-native.png) React
 
 #### 📬 Other Contacts
 - [LinkedIn](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)

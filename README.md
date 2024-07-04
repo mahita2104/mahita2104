@@ -51,7 +51,7 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 ![Code Composer Studio Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Code Composer Studio,
 ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow,
 ![Scikit-learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-learn,
-![PyTorch Logo](https://icons8.com/icon/jH4BpkMnRrU5/pytorch) PyTorch,
+![PyTorch Logo](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) PyTorch,
 ![React Logo](https://img.icons8.com/color/48/000000/react-native.png) React
 
 

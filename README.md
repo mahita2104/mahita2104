@@ -7,7 +7,7 @@
 
 
 <div align="right">
-  <i> -Eat Sleep Sode Repeat</i>
+  <i> - Eat Sleep Sode Repeat!!</i>
 </div>
 
 <h2> Hey there! I'm Mahita.</h2>

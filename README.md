@@ -60,7 +60,7 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 ## 📬 Let's Connect..
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/mahita-boyina-aba6b9255/)
-- [✉️ Email](mailto:mahita2104@gmail.com)
+- [✉️ Email](mahita2104@gmail.com)
 
 <div align="center">
   <span style="font-size: 10px;">Check out my repositories 🡻</span>

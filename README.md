@@ -10,17 +10,16 @@
   <i> - Eat Sleep Sode Repeat!!</i>
 </div>
 
-<h2> 
+<h1> 
   <img src="https://github.com/mahita2104/mahita2104/blob/main/name.gif" 👋/> 
-</h2>
-
+</h1>
+</div>
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
 
 ![profile count](https://komarev.com/ghpvc/?username=mahita2104&color=red)&nbsp;
 ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
 ![Stars](https://img.shields.io/github/stars/mahita2104?style=social)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-</div>
 Happy :smile: to catch your attention.
 
 I love to showcase my projects with detailed documentation, so that people can replicate that easily!

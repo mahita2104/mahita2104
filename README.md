@@ -23,7 +23,7 @@
 Happy :smile: to catch your attention.
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little  about me...  
-I am an Electronics and Communications Engineering - Artificial Intelligence undergrad at IGDTUW. It’s a unique blend of electronics and AI, making it an exciting and multidisciplinary field. I am an inquisitive person with a passion for open source and a drive to create technology that positively impacts people's lives.
+I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI, making it an exciting and multidisciplinary field. I am an inquisitive person with a passion for open source and a drive to create technology that positively impacts people's lives.
 
 - 🤖🧠 Constantly exploring new realms of machine learning
 - 💻 Enthusiastic about mastering web development technologies

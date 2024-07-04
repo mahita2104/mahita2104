@@ -19,9 +19,9 @@
   ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
   ![Stars](https://img.shields.io/github/stars/mahita2104?style=social)
   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<div align="center">
-  <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="550" height="400"/>
-</div> 
+   <div align="center">
+       <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500" height="400"/>
+   </div> 
 Happy :smile: to catch your attention!
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's a glimpse into who I am..<span style="font-size: 10px;">&nbsp;&nbsp;</span>

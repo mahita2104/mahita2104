@@ -28,8 +28,6 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 - 🤖🧠 Constantly exploring new realms of machine learning
 - 💻 Enthusiastic about mastering web development technologies
 - 🤖🔧 Currently diving deep into robotics and embedded software
-
-
 ## Skills 🛠️
 
 ### Languages
@@ -45,13 +43,12 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 ![Git Logo](https://img.icons8.com/color/48/000000/git.png) Git,
 ![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png) Flutter,
 ![FlutterFlow Logo](https://img.icons8.com/color/48/000000/flutter.png) FlutterFlow,
-![XAMPP Logo](https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png) XAMPP,
+![XAMPP Logo](https://img.icons8.com/color/48/000000/xampp.png) XAMPP,
 ![FastAPI Logo](https://img.icons8.com/dusk/48/000000/api-settings.png) FastAPI,
 ![Flask Logo](https://img.icons8.com/ios-filled/50/000000/flask.png) Flask,
 ![Code Composer Studio Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Code Composer Studio,
 ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow,
-![Scikit-learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-learn,
-![PyTorch Logo](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) PyTorch,
+![PyTorch Logo](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch,
 ![React Logo](https://img.icons8.com/color/48/000000/react-native.png) React
 
 

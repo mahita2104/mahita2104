@@ -10,7 +10,9 @@
   <i> - Eat Sleep Sode Repeat!!</i>
 </div>
 
-<h2> Hey there! I'm Mahita Boyina. 👋 </h2>
+<h2> 
+  <img src="URL_OF_YOUR_GIF" alt="Hey there! I'm Mahita Boyina. 👋" />
+</h2>
 
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
 

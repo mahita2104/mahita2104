@@ -18,7 +18,7 @@
   ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
   ![Stars](https://img.shields.io/github/stars/mahita2104?style=social)
   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
+</div>
 Happy :smile: to catch your attention.
 
 I love to showcase my projects with detailed documentation, so that people can replicate that easily!

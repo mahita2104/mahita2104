@@ -28,28 +28,64 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 - 🤖🧠 Constantly exploring new realms of machine learning
 - 💻 Enthusiastic about mastering web development technologies
 - 🤖🔧 Currently diving deep into robotics and embedded software
+
 ## Skills 🛠️
 
 ### Languages
-<img src="https://img.icons8.com/color/48/000000/python.png" width="22" height="22" style="vertical-align: text-bottom;"> Python 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="22" height="22" style="vertical-align: text-bottom;"> C++ 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="22" height="22" style="vertical-align: text-bottom;"> C 
-<img src="https://img.icons8.com/color/48/000000/r.png" width="22" height="22" style="vertical-align: text-bottom;"> R 
-<img src="https://img.icons8.com/color/48/000000/dart.png" width="22" height="22" style="vertical-align: text-bottom;"> Dart 
-<img src="https://img.icons8.com/color/48/000000/php.png" width="22" height="22" style="vertical-align: text-bottom;"> PHP 
-<img src="https://img.icons8.com/color/48/000000/assembly.png" width="22" height="22" style="vertical-align: text-bottom;"> Assembly
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="22" height="22" style="vertical-align: text-bottom;"> Python 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="22" height="22" style="vertical-align: text-bottom;"> C++ 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="22" height="22" style="vertical-align: text-bottom;"> C 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/r.png" width="22" height="22" style="vertical-align: text-bottom;"> R 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/dart.png" width="22" height="22" style="vertical-align: text-bottom;"> Dart 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/php.png" width="22" height="22" style="vertical-align: text-bottom;"> PHP 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/assembly.png" width="22" height="22" style="vertical-align: text-bottom;"> Assembly
+</div>
 
 ### Tools / Frameworks
-<img src="https://img.icons8.com/color/48/000000/git.png" width="22" height="22" style="vertical-align: text-bottom;"> Git 
-<img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22" style="vertical-align: text-bottom;"> Flutter 
-<img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22" style="vertical-align: text-bottom;"> FlutterFlow 
-<img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="22" height="22" style="vertical-align: text-bottom;"> XAMPP 
-<img src="https://img.icons8.com/dusk/48/000000/api-settings.png" width="22" height="22" style="vertical-align: text-bottom;"> FastAPI 
-<img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="22" height="22" style="vertical-align: text-bottom;"> Flask 
-<img src="https://www.ti.com/diagrams/ccstudio_ccs_256.jpg" width="22" height="22" style="vertical-align: text-bottom;"> Code Composer Studio 
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" height="22" style="vertical-align: text-bottom;"> TensorFlow 
-<img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" width="22" height="22" style="vertical-align: text-bottom;"> PyTorch 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="22" height="22" style="vertical-align: text-bottom;"> React
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="22" height="22" style="vertical-align: text-bottom;"> Git 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22" style="vertical-align: text-bottom;"> Flutter 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22" style="vertical-align: text-bottom;"> FlutterFlow 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="22" height="22" style="vertical-align: text-bottom;"> XAMPP 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/dusk/48/000000/api-settings.png" width="22" height="22" style="vertical-align: text-bottom;"> FastAPI 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="22" height="22" style="vertical-align: text-bottom;"> Flask 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://www.ti.com/diagrams/ccstudio_ccs_256.jpg" width="22" height="22" style="vertical-align: text-bottom;"> Code Composer Studio 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" height="22" style="vertical-align: text-bottom;"> TensorFlow 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" width="22" height="22" style="vertical-align: text-bottom;"> PyTorch 
+</div>
+<div style="display: inline-flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="22" height="22" style="vertical-align: text-bottom;"> React
+</div>
+
 
 #### 📬 Other Contacts
 - [LinkedIn](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)

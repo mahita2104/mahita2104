@@ -28,7 +28,7 @@ Happy :smile: to catch your attention!
 I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI, making it an exciting and multidisciplinary field. I am an inquisitive person with a passion for open source and a drive to create technology that positively impacts people's lives.
 
 - 🤖🧠 Exploring new realms of machine learning
-- 💻 Enthusiastic about web development technologies
+- 💻 Enthusiastic about web development 
 - 🤖🔧 Currently diving deep into robotics and embedded software
 ## 🛠️ Skills
 

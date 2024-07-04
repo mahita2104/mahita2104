@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Mahita. <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
 
 ![profile count](https://komarev.com/ghpvc/?username=ashcode028&color=red)&nbsp;
 ![Followers](https://img.shields.io/github/followers/ashcode028?style=social)

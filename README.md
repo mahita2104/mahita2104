@@ -36,7 +36,7 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 ![Python Logo](https://img.icons8.com/color/48/000000/python.png) Python, 
 ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++,
 ![C Logo](https://img.icons8.com/color/48/000000/c-programming.png) C,
-![R Logo](https://img.icons8.com/color/48/000000/r-project.png) R,
+![R Logo](https://img.icons8.com/color/48/000000/r.png) R,
 ![Dart Logo](https://img.icons8.com/color/48/000000/dart.png) Dart,
 ![PHP Logo](https://img.icons8.com/color/48/000000/php.png) PHP,
 ![Assembly Logo](https://img.icons8.com/color/48/000000/assembly.png) Assembly
@@ -51,7 +51,7 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 ![Code Composer Studio Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Code Composer Studio,
 ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow,
 ![Scikit-learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-learn,
-![PyTorch Logo](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch,
+![PyTorch Logo](https://icons8.com/icon/jH4BpkMnRrU5/pytorch) PyTorch,
 ![React Logo](https://img.icons8.com/color/48/000000/react-native.png) React
 
 

@@ -1,92 +1,70 @@
-![image](https://github.com/mahita2104/mahita2104/assets/117190638/122fc5fa-850e-4ef1-9bd2-058bfd724846)<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="7%" alt="Broken system!"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="7%" alt="It's working!"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="7%" alt="It's working but you don't know how!"/>
+</div>
 <div align="right">
-  <i> - Eat Sleep Sode Repeat!!</i>
+  <i> - Eat Sleep Code Repeat!!</i>
 </div>
-<h1> 
-  <img src="https://github.com/mahita2104/mahita2104/blob/main/name.gif" 👋/> 
-</h1>
+<div align="center" style="margin-bottom: 5px;">
+  <h1> 
+    <img src="https://github.com/mahita2104/mahita2104/blob/main/name.gif" width="500"/> 
+  </h1>
 </div>
-<img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
-
-![profile count](https://komarev.com/ghpvc/?username=mahita2104&color=red)&nbsp;
-![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
-![Stars](https://img.shields.io/github/stars/mahita2104?style=social)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<div align="center">
+  <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
 </div>
-Happy :smile: to catch your attention.
-
+  
+  ![profile count](https://komarev.com/ghpvc/?username=mahita2104&color=red)&nbsp;
+  ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
+  ![Stars](https://img.shields.io/github/stars/mahita2104?style=social)
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+  
+Happy :smile: to catch your attention!
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little  about me...  
 I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI, making it an exciting and multidisciplinary field. I am an inquisitive person with a passion for open source and a drive to create technology that positively impacts people's lives.
 
 - 🤖🧠 Constantly exploring new realms of machine learning
 - 💻 Enthusiastic about mastering web development technologies
 - 🤖🔧 Currently diving deep into robotics and embedded software
+## 🛠️ Skills
 
-## Skills 🛠️
+- ### Languages
+   <span><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-Assembly-6E4C13?logo=assemblyscript&logoColor=white" height="25"></span>
 
-### Languages
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" width="22" height="22" style="vertical-align: text-bottom;"> Python 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="22" height="22" style="vertical-align: text-bottom;"> C++ 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="22" height="22" style="vertical-align: text-bottom;"> C 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/r.png" width="22" height="22" style="vertical-align: text-bottom;"> R 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/dart.png" width="22" height="22" style="vertical-align: text-bottom;"> Dart 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/php.png" width="22" height="22" style="vertical-align: text-bottom;"> PHP 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/assembly.png" width="22" height="22" style="vertical-align: text-bottom;"> Assembly
-</div>
+- ### Tools / Frameworks
+   <span><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-FlutterFlow-02569B?logo=flutter&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-Code%20Composer%20Studio-6D309E?logo=ti&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" height="25"></span>
+<span><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"></span>
 
-### Tools / Frameworks
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/git.png" width="22" height="22" style="vertical-align: text-bottom;"> Git 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22" style="vertical-align: text-bottom;"> Flutter 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" width="22" height="22" style="vertical-align: text-bottom;"> FlutterFlow 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="22" height="22" style="vertical-align: text-bottom;"> XAMPP 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/dusk/48/000000/api-settings.png" width="22" height="22" style="vertical-align: text-bottom;"> FastAPI 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="22" height="22" style="vertical-align: text-bottom;"> Flask 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://www.ti.com/diagrams/ccstudio_ccs_256.jpg" width="22" height="22" style="vertical-align: text-bottom;"> Code Composer Studio 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" height="22" style="vertical-align: text-bottom;"> TensorFlow 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" width="22" height="22" style="vertical-align: text-bottom;"> PyTorch 
-</div>
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="22" height="22" style="vertical-align: text-bottom;"> React
+## 📬 Let's Connect..
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/mahita-boyina-aba6b9255/)
+- [✉️ Email](mailto:mahita2104@gmail.com)
+
+<div align="center">
+  <span style="font-size: 10px;">Check out my repositories 🡻</span>
+  
+  Feel free to ping me if you find any bugs or if my profile interests you!
 </div>
 
 
-#### 📬 Other Contacts
-- [LinkedIn](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)
-- [Email](cOde.A4sh@gmail.com)
+
+
+

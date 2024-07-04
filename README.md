@@ -11,7 +11,7 @@
 </div>
 
 <h2> 
-  <img src="https://github.com/mahita2104/mahita2104/blob/main/name.giff" alt="Hey there! I'm Mahita Boyina. 👋" />
+  <img src="https://github.com/mahita2104/mahita2104/blob/main/name.gif" alt="Hey there! I'm Mahita Boyina. 👋" />
 </h2>
 
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>

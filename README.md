@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-
+</div>
 
 <div align="right">
   <i> - Eat Sleep Sode Repeat!!</i>
@@ -15,7 +15,7 @@
 </h2>
 
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
-
+<div align="center">
 ![profile count](https://komarev.com/ghpvc/?username=mahita2104&color=red)&nbsp;
 ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
 ![Stars](https://img.shields.io/github/stars/mahita2104?style=social)

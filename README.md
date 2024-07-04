@@ -15,6 +15,7 @@
 </h1>
 </div>
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+
 <div align="center">
   ![profile count](https://komarev.com/ghpvc/?username=mahita2104&color=red)&nbsp;
   ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)

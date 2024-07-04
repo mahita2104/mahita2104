@@ -42,16 +42,20 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 
 - ### Tools / Frameworks
    <span><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-FlutterFlow-02569B?logo=flutter&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-Code%20Composer%20Studio-6D309E?logo=ti&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" height="25"></span>
-<span><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-FlutterFlow-02569B?logo=flutter&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-Code%20Composer%20Studio-6D309E?logo=ti&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-Keil%20uVision-4D4D4D?logo=keil&logoColor=white" height="25"></span>
+   <span><img src="https://img.shields.io/badge/-Carla-4182F0?logo=carla&logoColor=white" height="25"></span>
+
 
 ## 📬 Let's Connect..
 

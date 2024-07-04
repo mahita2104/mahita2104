@@ -7,7 +7,7 @@
 
 
 <div align="right">
-  <i>eat sleep code repeat</i>
+  <i> -Eat Sleep Sode Repeat</i>
 </div>
 
 <h2> Hey there! I'm Mahita.</h2>

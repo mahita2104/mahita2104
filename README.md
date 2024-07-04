@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-</div>
+
 
 <h2> Hey there! I'm Mahita.</h2>
 
@@ -15,7 +15,7 @@
 ![Followers](https://img.shields.io/github/followers/mahita2104?style=social)
 ![Stars](https://img.shields.io/github/stars/mahita2104?style=social)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
+</div>
 Happy :smile: to catch your attention.
 
 I love to showcase my projects with detailed documentation, so that people can replicate that easily!

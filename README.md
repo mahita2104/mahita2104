@@ -64,7 +64,7 @@ I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI,
 - [✉️ Email](mahita2104@gmail.com)
 
 <div align="center">
-  <span style="font-size: 10px;">Check out my repositories 🡻</span>
+  <span style="font-size: 10px;">Check out my repositories ⬇️</span>
   
   Feel free to ping me if you find any bugs or if my profile interests you!
 </div>

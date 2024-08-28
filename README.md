@@ -25,11 +25,14 @@
 Happy :smile: to catch your attention!
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A quick glimpse of me..<span style="font-size: 10px;">&nbsp;&nbsp;</span>
-I am an ECE-AI undergrad at IGDTUW. It’s a unique blend of electronics and AI, making it an exciting and multidisciplinary field. I am an inquisitive person with a passion for open source and a drive to create technology that positively impacts people's lives.
+I'm an inquisitive explorer with a lifelong thirst for knowledge. My journey began with a fascination for how science reflects the world around us, sparking an obsession with computers and programming. I stumbled upon Electronics and AI (ECE-AI) during my admission process, and it turned out to be the most intriguing and rewarding path I could have chosen. As I pursue this degree, I'm constantly discovering its unique blend and appreciating its critical role in shaping our future.
 
-- 🤖🧠 Exploring new realms of machine learning
-- 💻 Enthusiastic about web development 
-- 🤖🔧 Currently diving deep into robotics and embedded software
+- **💡 Artificial Intelligence:** My journey began with a deep passion for AI , driven by its transformative potential.
+- **🌐 Web Development:** I expanded into backend development to create more impactful and user-friendly applications.
+- **🔧 Embedded Systems:** My interest evolved into embedded software, where I found the perfect synergy between hardware and software.
+- **🤖 Robotics:** An unexpected opportunity led me to robotics, where I bring code to life, creating solutions that interact with the physical world.
+
+Forever curious, I'm always eager to explore new technologies and push the boundaries of what’s possible.
 ## 🛠️ Skills
 
 - ### Languages

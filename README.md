@@ -64,7 +64,7 @@ Forever curious, I'm always eager to explore new technologies and push the bound
 ## 📬 Let's Connect..
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/mahita-boyina-aba6b9255/)
-- [✉️ Email](mahita2104@gmail.com)
+- [✉️ Email](mailto:mahita2104@gmail.com)
 
 <div align="center">
   <span style="font-size: 10px;">Check out my repositories ⬇️</span>
